@@ -11,6 +11,8 @@ transfomerを使って試したことをいろいろ記載します。
 
 エポック：10
 
+比較次元：256,512
+
 ![image](https://github.com/tsutsui-439f340f/transformer-research/assets/55880071/2c624d49-ab36-4e6a-be4f-12bd3189cc78)
 ![image](https://github.com/tsutsui-439f340f/transformer-research/assets/55880071/30ed0de5-f47e-4f13-83e1-5555e0e3c1dc)
 
